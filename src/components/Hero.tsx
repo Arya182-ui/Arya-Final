@@ -65,7 +65,7 @@ export function Hero() {
         </div>
 
         {/* Profile Image on the Left */}
-        <div className="mt-8 md:mt-0 order-last md:order-first">
+        <div className="mt-8 md:mt-0 md:order-first">
           <img
             src={logo}  // Replace with your actual image URL
             alt="Arya - Security Consultant"
